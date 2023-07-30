@@ -15,6 +15,10 @@
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
+- [10 Rendering Patterns for Web Apps](https://yashtotla.medium.com/10-rendering-patterns-for-web-apps-1494976e4209?source=rss-f1e0b2822c3e------2)
+- [Is Web3 all hype?](https://blog.cryptostars.is/is-web3-all-hype-2337d1914bc1?source=rss-f1e0b2822c3e------2)
+- [2022 is gonna be wild for developers](https://yashtotla.medium.com/2022-is-gonna-be-wild-for-developers-398a981b8b01?source=rss-f1e0b2822c3e------2)
+- [Why Bitcoin is going to Zero](https://yashtotla.medium.com/why-bitcoin-is-going-to-zero-8e45b9b292b?source=rss-f1e0b2822c3e------2)
 <!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
