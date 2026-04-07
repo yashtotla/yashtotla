@@ -1,31 +1,20 @@
 <h1 align="center">Hi 👋, I'm Yash Totla</h1>
-<h3 align="center">I am a full-stack developer at FieldLabs</h3>
+<h3 align="center">I lead the backend and infra at FieldLabs</h3>
 
 <p align="left"> <a href="https://twitter.com/holytotla" target="blank"><img src="https://img.shields.io/twitter/follow/holytotla?logo=twitter&style=for-the-badge" alt="holytotla" /></a> </p>
 
 - 🔭 I’m currently working on [TruFin Protocol](trufin.io)
 
-- 🌱 I’m currently learning **everything about web3, defi, and the solidity programming language**
-
-- 📝 I regularly write articles on [yashtotla.medium.com](yashtotla.medium.com)
+- 🌱 I’m currently learning **everything about inference engineering**
 
 - 📫 How to reach me **yashtotla98@gmail.com**
 
 - 📄 Know about my experiences [linkedin.com/in/yashtotla/](linkedin.com/in/yashtotla/)
 
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-- [10 Rendering Patterns for Web Apps](https://yashtotla.medium.com/10-rendering-patterns-for-web-apps-1494976e4209?source=rss-f1e0b2822c3e------2)
-- [Is Web3 all hype?](https://blog.cryptostars.is/is-web3-all-hype-2337d1914bc1?source=rss-f1e0b2822c3e------2)
-- [2022 is gonna be wild for developers](https://yashtotla.medium.com/2022-is-gonna-be-wild-for-developers-398a981b8b01?source=rss-f1e0b2822c3e------2)
-- [Why Bitcoin is going to Zero](https://yashtotla.medium.com/why-bitcoin-is-going-to-zero-8e45b9b292b?source=rss-f1e0b2822c3e------2)
-<!-- BLOG-POST-LIST:END -->
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/holytotla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="holytotla" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/yashtotla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yashtotla" height="30" width="40" /></a>
-<a href="https://medium.com/@yashtotla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@yashtotla" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
